@@ -53,11 +53,5 @@
   },
   "engines": {
     "node": ">=20"
-  },
-  "overrides": {
-    "react-native-mmkv": "2.12.2"
-  },
-  "resolutions": {
-    "react-native-mmkv": "2.12.2"
   }
 }
