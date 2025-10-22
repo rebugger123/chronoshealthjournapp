@@ -7,7 +7,6 @@
 
 import React, { useState, useEffect, useCallback, useRef } from 'react';
 import {
-  SafeAreaView,
   KeyboardAvoidingView,
   Platform,
   View,
@@ -19,6 +18,7 @@ import {
   AppStateStatus,
   Pressable,
 } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import RatingSelector from './RatingSelector';
 import { getDraft, saveDraft, finalizeDate, clearDraft, hasContent, Draft } from './src/storage/entries';
 import { COLORS } from './src/theme/colors';

@@ -12,9 +12,9 @@ import {
   Text,
   TextInput,
   Pressable,
-  SafeAreaView,
   StyleSheet,
 } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import ModalPicker from './src/components/ModalPicker';
 import RatingSelector from './RatingSelector';
 import { Entry, getEntries, seedDummyEntries } from './src/storage/entries';

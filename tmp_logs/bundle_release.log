@@ -13,27 +13,12 @@
                         ▒▒▓▓▓▓▒▒
 
 
- BUNDLE  ./index.js ░░░░░░░░░░░░░░░░ 0.0% (0/1)
  WARN  the transform cache was reset.
                 Welcome to Metro v0.83.3
               Fast - Scalable - Integrated
 
 
-transform[stderr]: (node:41909) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
-transform[stderr]: (Use `node --trace-warnings ...` to show where the warning was created)
-transform[stderr]: (node:41912) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
-transform[stderr]: (Use `node --trace-warnings ...` to show where the warning was created)
-transform[stderr]: (node:41911) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
-transform[stderr]: (Use `node --trace-warnings ...` to show where the warning was created)
-transform[stderr]: (node:41910) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
-transform[stderr]: (Use `node --trace-warnings ...` to show where the warning was created)
-transform[stderr]: (node:41913) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
-transform[stderr]: (Use `node --trace-warnings ...` to show where the warning was created)
-transform[stderr]: (node:41914) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
-transform[stderr]: (Use `node --trace-warnings ...` to show where the warning was created)
- BUNDLE  ./index.js ▓▓░░░░░░░░░░░░░░ 16.0% (23/148)
- BUNDLE  ./index.js ▓▓▓▓▓▓▓▓░░░░░░░░ 50.7% (349/490)
- BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99.7% (644/663)
- BUNDLE  ./index.js 
-LOG:Writing bundle output to: ios/main.jsbundle.js
+LOG:Writing bundle output to: ios/main.jsbundle
+Copying 6 asset files
+Done copying assets
 LOG:Done writing bundle output
