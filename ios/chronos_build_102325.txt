@@ -1,0 +1,438 @@
+
+Showing Recent Issues
+
+Build target hermes-engine of project Pods with configuration Release
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'hermes-engine' from project 'Pods')
+warning: Run script build phase '[CP-User] [Hermes] Replace Hermes for the right configuration, if needed' will be run during every build because it does not specify any outputs. To address this issue, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'hermes-engine' from project 'Pods')
+
+
+Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone
+
+Run script build phase '[CP-User] [Hermes] Replace Hermes for the right configuration, if needed' will be run during every build because it does not specify any outputs. To address this issue, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase.
+
+
+Build target react-native-mmkv of project Pods with configuration Release
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'react-native-mmkv' from project 'Pods')
+/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.5.99. (in target 'react-native-mmkv' from project 'Pods')
+
+
+Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.5.99.
+
+
+Build target SocketRocket of project Pods with configuration Release
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'SocketRocket' from project 'Pods')
+/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.5.99. (in target 'SocketRocket' from project 'Pods')
+
+
+Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 18.5.99.
+
+
+Build target React-perflogger of project Pods with configuration Release
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'React-perflogger' from project 'Pods')
+
+
+Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone
+
+CompileC /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-perflogger.build/Objects-normal/x86_64/FuseboxTracer.o /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/reactperflogger/fusebox/FuseboxTracer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'React-perflogger' from project 'Pods')
+    cd /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods
+    
+    Using response file: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-perflogger.build/Objects-normal/x86_64/82b82416624d2658e5098eb0a28c15c5-common-args.resp
+    
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -ivfsstatcache /Users/arjunpillai/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphonesimulator18.5-22F76-d5fc8ad4295d2ef488fb7d0f804ce0c4.sdkstatcache -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -fno-color-diagnostics -fmodules-prune-interval\=86400 -fmodules-prune-after\=345600 -fbuild-session-file\=/Users/arjunpillai/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation -fmodules-validate-once-per-build-session -Wnon-modular-include-in-framework-module -Werror\=non-modular-include-in-framework-module -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Werror\=return-type -Wdocumentation -Wunreachable-code -Werror\=deprecated-objc-isa-usage -Werror\=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-float-conversion -Wnon-literal-null-conversion -Wobjc-literal-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -Wno-implicit-fallthrough -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -Wno-sign-conversion -Winfinite-recursion -Wmove -Wcomma -Wblock-capture-autoreleasing -Wstrict-prototypes -Wrange-loop-analysis -Wno-semicolon-before-method-body -Wunguarded-availability @/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-perflogger.build/Objects-normal/x86_64/82b82416624d2658e5098eb0a28c15c5-common-args.resp -include /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Target\ Support\ Files/React-perflogger/React-perflogger-prefix.pch -MMD -MT dependencies -MF /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-perflogger.build/Objects-normal/x86_64/FuseboxTracer.d --serialize-diagnostics /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-perflogger.build/Objects-normal/x86_64/FuseboxTracer.dia -c /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/reactperflogger/fusebox/FuseboxTracer.cpp -o /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-perflogger.build/Objects-normal/x86_64/FuseboxTracer.o
+
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/reactperflogger/fusebox/FuseboxTracer.cpp:13:
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/reactperflogger/fusebox/FuseboxTracer.h:26:5: warning: declaration is marked with '@deprecated' command but does not have a deprecation attribute [-Wdocumentation-deprecated-sync]
+   26 |  * @deprecated Replaced by jsinspector_modern::PerformanceTracer and will be
+      |    ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   27 |  * removed when we delete FuseboxPerfettoDataSource.
+      |  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/reactperflogger/fusebox/FuseboxTracer.h:26:5: Declaration is marked with '@deprecated' command but does not have a deprecation attribute
+
+CompileC /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-perflogger.build/Objects-normal/arm64/FuseboxTracer.o /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/reactperflogger/fusebox/FuseboxTracer.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'React-perflogger' from project 'Pods')
+    cd /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods
+    
+    Using response file: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-perflogger.build/Objects-normal/arm64/82b82416624d2658e5098eb0a28c15c5-common-args.resp
+    
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -ivfsstatcache /Users/arjunpillai/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphonesimulator18.5-22F76-d5fc8ad4295d2ef488fb7d0f804ce0c4.sdkstatcache -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -fno-color-diagnostics -fmodules-prune-interval\=86400 -fmodules-prune-after\=345600 -fbuild-session-file\=/Users/arjunpillai/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation -fmodules-validate-once-per-build-session -Wnon-modular-include-in-framework-module -Werror\=non-modular-include-in-framework-module -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Werror\=return-type -Wdocumentation -Wunreachable-code -Werror\=deprecated-objc-isa-usage -Werror\=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-float-conversion -Wnon-literal-null-conversion -Wobjc-literal-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -Wno-implicit-fallthrough -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -Wno-sign-conversion -Winfinite-recursion -Wmove -Wcomma -Wblock-capture-autoreleasing -Wstrict-prototypes -Wrange-loop-analysis -Wno-semicolon-before-method-body -Wunguarded-availability @/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-perflogger.build/Objects-normal/arm64/82b82416624d2658e5098eb0a28c15c5-common-args.resp -include /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Target\ Support\ Files/React-perflogger/React-perflogger-prefix.pch -MMD -MT dependencies -MF /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-perflogger.build/Objects-normal/arm64/FuseboxTracer.d --serialize-diagnostics /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-perflogger.build/Objects-normal/arm64/FuseboxTracer.dia -c /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/reactperflogger/fusebox/FuseboxTracer.cpp -o /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-perflogger.build/Objects-normal/arm64/FuseboxTracer.o
+
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/reactperflogger/fusebox/FuseboxTracer.cpp:13:
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/reactperflogger/fusebox/FuseboxTracer.h:26:5: warning: declaration is marked with '@deprecated' command but does not have a deprecation attribute [-Wdocumentation-deprecated-sync]
+   26 |  * @deprecated Replaced by jsinspector_modern::PerformanceTracer and will be
+      |    ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   27 |  * removed when we delete FuseboxPerfettoDataSource.
+      |  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/reactperflogger/fusebox/FuseboxTracer.h:26:5: Declaration is marked with '@deprecated' command but does not have a deprecation attribute
+
+
+Build target React-oscompat of project Pods with configuration Release
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'React-oscompat' from project 'Pods')
+
+
+Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone
+
+CompileC /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-oscompat.build/Objects-normal/x86_64/OSCompatPosix.o /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/oscompat/OSCompatPosix.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'React-oscompat' from project 'Pods')
+    cd /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods
+    
+    Using response file: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-oscompat.build/Objects-normal/x86_64/82b82416624d2658e5098eb0a28c15c5-common-args.resp
+    
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -ivfsstatcache /Users/arjunpillai/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphonesimulator18.5-22F76-d5fc8ad4295d2ef488fb7d0f804ce0c4.sdkstatcache -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -fno-color-diagnostics -fmodules-prune-interval\=86400 -fmodules-prune-after\=345600 -fbuild-session-file\=/Users/arjunpillai/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation -fmodules-validate-once-per-build-session -Wnon-modular-include-in-framework-module -Werror\=non-modular-include-in-framework-module -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Werror\=return-type -Wdocumentation -Wunreachable-code -Werror\=deprecated-objc-isa-usage -Werror\=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-float-conversion -Wnon-literal-null-conversion -Wobjc-literal-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -Wno-implicit-fallthrough -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -Wno-sign-conversion -Winfinite-recursion -Wmove -Wcomma -Wblock-capture-autoreleasing -Wstrict-prototypes -Wrange-loop-analysis -Wno-semicolon-before-method-body -Wunguarded-availability @/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-oscompat.build/Objects-normal/x86_64/82b82416624d2658e5098eb0a28c15c5-common-args.resp -include /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Target\ Support\ Files/React-oscompat/React-oscompat-prefix.pch -MMD -MT dependencies -MF /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-oscompat.build/Objects-normal/x86_64/OSCompatPosix.d --serialize-diagnostics /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-oscompat.build/Objects-normal/x86_64/OSCompatPosix.dia -c /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/oscompat/OSCompatPosix.cpp -o /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-oscompat.build/Objects-normal/x86_64/OSCompatPosix.o
+
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/oscompat/OSCompatPosix.cpp:11:
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/oscompat/OSCompat.h:12:19: warning: nested namespace definition is a C++17 extension; define each namespace separately [-Wc++17-extensions]
+   12 | namespace facebook::react::oscompat {
+      |                   ^~~~~~~~~~~~~~~~~
+      |                    { namespace react { namespace oscompat
+   13 | 
+   14 | uint64_t getCurrentProcessId();
+   15 | 
+   16 | uint64_t getCurrentThreadId();
+   17 | 
+   18 | } // namespace facebook::react::oscompat
+      | } } 
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/oscompat/OSCompatPosix.cpp:26:19: warning: nested namespace definition is a C++17 extension; define each namespace separately [-Wc++17-extensions]
+   26 | namespace facebook::react::oscompat {
+      |                   ^~~~~~~~~~~~~~~~~
+      |                    { namespace react { namespace oscompat
+2 warnings generated.
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/oscompat/OSCompat.h:12:19: Nested namespace definition is a C++17 extension; define each namespace separately
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/oscompat/OSCompatPosix.cpp:26:19: Nested namespace definition is a C++17 extension; define each namespace separately
+
+CompileC /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-oscompat.build/Objects-normal/arm64/OSCompatPosix.o /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/oscompat/OSCompatPosix.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'React-oscompat' from project 'Pods')
+    cd /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods
+    
+    Using response file: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-oscompat.build/Objects-normal/arm64/82b82416624d2658e5098eb0a28c15c5-common-args.resp
+    
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -ivfsstatcache /Users/arjunpillai/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphonesimulator18.5-22F76-d5fc8ad4295d2ef488fb7d0f804ce0c4.sdkstatcache -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -fno-color-diagnostics -fmodules-prune-interval\=86400 -fmodules-prune-after\=345600 -fbuild-session-file\=/Users/arjunpillai/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation -fmodules-validate-once-per-build-session -Wnon-modular-include-in-framework-module -Werror\=non-modular-include-in-framework-module -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Werror\=return-type -Wdocumentation -Wunreachable-code -Werror\=deprecated-objc-isa-usage -Werror\=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-float-conversion -Wnon-literal-null-conversion -Wobjc-literal-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -Wno-implicit-fallthrough -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -Wno-sign-conversion -Winfinite-recursion -Wmove -Wcomma -Wblock-capture-autoreleasing -Wstrict-prototypes -Wrange-loop-analysis -Wno-semicolon-before-method-body -Wunguarded-availability @/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-oscompat.build/Objects-normal/arm64/82b82416624d2658e5098eb0a28c15c5-common-args.resp -include /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Target\ Support\ Files/React-oscompat/React-oscompat-prefix.pch -MMD -MT dependencies -MF /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-oscompat.build/Objects-normal/arm64/OSCompatPosix.d --serialize-diagnostics /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-oscompat.build/Objects-normal/arm64/OSCompatPosix.dia -c /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/oscompat/OSCompatPosix.cpp -o /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-oscompat.build/Objects-normal/arm64/OSCompatPosix.o
+
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/oscompat/OSCompatPosix.cpp:11:
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/oscompat/OSCompat.h:12:19: warning: nested namespace definition is a C++17 extension; define each namespace separately [-Wc++17-extensions]
+   12 | namespace facebook::react::oscompat {
+      |                   ^~~~~~~~~~~~~~~~~
+      |                    { namespace react { namespace oscompat
+   13 | 
+   14 | uint64_t getCurrentProcessId();
+   15 | 
+   16 | uint64_t getCurrentThreadId();
+   17 | 
+   18 | } // namespace facebook::react::oscompat
+      | } } 
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/oscompat/OSCompatPosix.cpp:26:19: warning: nested namespace definition is a C++17 extension; define each namespace separately [-Wc++17-extensions]
+   26 | namespace facebook::react::oscompat {
+      |                   ^~~~~~~~~~~~~~~~~
+      |                    { namespace react { namespace oscompat
+2 warnings generated.
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/oscompat/OSCompat.h:12:19: Nested namespace definition is a C++17 extension; define each namespace separately
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/oscompat/OSCompatPosix.cpp:26:19: Nested namespace definition is a C++17 extension; define each namespace separately
+
+
+Build target React-jsinspectortracing of project Pods with configuration Release
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'React-jsinspectortracing' from project 'Pods')
+
+
+Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone
+
+CompileC /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspectortracing.build/Objects-normal/x86_64/RuntimeSamplingProfileTraceEventSerializer.o /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'React-jsinspectortracing' from project 'Pods')
+    cd /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods
+    
+    Using response file: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspectortracing.build/Objects-normal/x86_64/82b82416624d2658e5098eb0a28c15c5-common-args.resp
+    
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -ivfsstatcache /Users/arjunpillai/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphonesimulator18.5-22F76-d5fc8ad4295d2ef488fb7d0f804ce0c4.sdkstatcache -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -fno-color-diagnostics -fmodules-prune-interval\=86400 -fmodules-prune-after\=345600 -fbuild-session-file\=/Users/arjunpillai/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation -fmodules-validate-once-per-build-session -Wnon-modular-include-in-framework-module -Werror\=non-modular-include-in-framework-module -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Werror\=return-type -Wdocumentation -Wunreachable-code -Werror\=deprecated-objc-isa-usage -Werror\=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-float-conversion -Wnon-literal-null-conversion -Wobjc-literal-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -Wno-implicit-fallthrough -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -Wno-sign-conversion -Winfinite-recursion -Wmove -Wcomma -Wblock-capture-autoreleasing -Wstrict-prototypes -Wrange-loop-analysis -Wno-semicolon-before-method-body -Wunguarded-availability @/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspectortracing.build/Objects-normal/x86_64/82b82416624d2658e5098eb0a28c15c5-common-args.resp -include /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Target\ Support\ Files/React-jsinspectortracing/React-jsinspectortracing-prefix.pch -MMD -MT dependencies -MF /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspectortracing.build/Objects-normal/x86_64/RuntimeSamplingProfileTraceEventSerializer.d --serialize-diagnostics /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspectortracing.build/Objects-normal/x86_64/RuntimeSamplingProfileTraceEventSerializer.dia -c /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.cpp -o /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspectortracing.build/Objects-normal/x86_64/RuntimeSamplingProfileTraceEventSerializer.o
+
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.cpp:11:
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.h:101:13: warning: parameter 'profileStartUnixTimestamp' not found in the function declaration [-Wdocumentation]
+  101 |    * \param profileStartUnixTimestamp The Unix timestamp of the start of the
+      |             ^~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.h:101:13: note: did you mean 'profileStartTimestamp'?
+  101 |    * \param profileStartUnixTimestamp The Unix timestamp of the start of the
+      |             ^~~~~~~~~~~~~~~~~~~~~~~~~
+      |             profileStartTimestamp
+1 warning generated.
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.h:101:13: Parameter 'profileStartUnixTimestamp' not found in the function declaration
+
+CompileC /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspectortracing.build/Objects-normal/arm64/RuntimeSamplingProfileTraceEventSerializer.o /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'React-jsinspectortracing' from project 'Pods')
+    cd /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods
+    
+    Using response file: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspectortracing.build/Objects-normal/arm64/82b82416624d2658e5098eb0a28c15c5-common-args.resp
+    
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -ivfsstatcache /Users/arjunpillai/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphonesimulator18.5-22F76-d5fc8ad4295d2ef488fb7d0f804ce0c4.sdkstatcache -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -fno-color-diagnostics -fmodules-prune-interval\=86400 -fmodules-prune-after\=345600 -fbuild-session-file\=/Users/arjunpillai/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation -fmodules-validate-once-per-build-session -Wnon-modular-include-in-framework-module -Werror\=non-modular-include-in-framework-module -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Werror\=return-type -Wdocumentation -Wunreachable-code -Werror\=deprecated-objc-isa-usage -Werror\=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-float-conversion -Wnon-literal-null-conversion -Wobjc-literal-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -Wno-implicit-fallthrough -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -Wno-sign-conversion -Winfinite-recursion -Wmove -Wcomma -Wblock-capture-autoreleasing -Wstrict-prototypes -Wrange-loop-analysis -Wno-semicolon-before-method-body -Wunguarded-availability @/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspectortracing.build/Objects-normal/arm64/82b82416624d2658e5098eb0a28c15c5-common-args.resp -include /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Target\ Support\ Files/React-jsinspectortracing/React-jsinspectortracing-prefix.pch -MMD -MT dependencies -MF /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspectortracing.build/Objects-normal/arm64/RuntimeSamplingProfileTraceEventSerializer.d --serialize-diagnostics /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspectortracing.build/Objects-normal/arm64/RuntimeSamplingProfileTraceEventSerializer.dia -c /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.cpp -o /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspectortracing.build/Objects-normal/arm64/RuntimeSamplingProfileTraceEventSerializer.o
+
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.cpp:11:
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.h:101:13: warning: parameter 'profileStartUnixTimestamp' not found in the function declaration [-Wdocumentation]
+  101 |    * \param profileStartUnixTimestamp The Unix timestamp of the start of the
+      |             ^~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.h:101:13: note: did you mean 'profileStartTimestamp'?
+  101 |    * \param profileStartUnixTimestamp The Unix timestamp of the start of the
+      |             ^~~~~~~~~~~~~~~~~~~~~~~~~
+      |             profileStartTimestamp
+1 warning generated.
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.h:101:13: Parameter 'profileStartUnixTimestamp' not found in the function declaration
+
+
+Build target React-jsinspector of project Pods with configuration Release
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'React-jsinspector' from project 'Pods')
+
+
+Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone
+
+CompileC /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspector.build/Objects-normal/x86_64/TracingAgent.o /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/TracingAgent.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'React-jsinspector' from project 'Pods')
+    cd /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods
+    
+    Using response file: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspector.build/Objects-normal/x86_64/82b82416624d2658e5098eb0a28c15c5-common-args.resp
+    
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -ivfsstatcache /Users/arjunpillai/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphonesimulator18.5-22F76-d5fc8ad4295d2ef488fb7d0f804ce0c4.sdkstatcache -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -fno-color-diagnostics -fmodules-prune-interval\=86400 -fmodules-prune-after\=345600 -fbuild-session-file\=/Users/arjunpillai/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation -fmodules-validate-once-per-build-session -Wnon-modular-include-in-framework-module -Werror\=non-modular-include-in-framework-module -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Werror\=return-type -Wdocumentation -Wunreachable-code -Werror\=deprecated-objc-isa-usage -Werror\=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-float-conversion -Wnon-literal-null-conversion -Wobjc-literal-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -Wno-implicit-fallthrough -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -Wno-sign-conversion -Winfinite-recursion -Wmove -Wcomma -Wblock-capture-autoreleasing -Wstrict-prototypes -Wrange-loop-analysis -Wno-semicolon-before-method-body -Wunguarded-availability @/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspector.build/Objects-normal/x86_64/82b82416624d2658e5098eb0a28c15c5-common-args.resp -include /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Target\ Support\ Files/React-jsinspector/React-jsinspector-prefix.pch -MMD -MT dependencies -MF /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspector.build/Objects-normal/x86_64/TracingAgent.d --serialize-diagnostics /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspector.build/Objects-normal/x86_64/TracingAgent.dia -c /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/TracingAgent.cpp -o /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspector.build/Objects-normal/x86_64/TracingAgent.o
+
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/TracingAgent.cpp:11:
+/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/React-jsinspectortracing/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.h:101:13: warning: parameter 'profileStartUnixTimestamp' not found in the function declaration [-Wdocumentation]
+  101 |    * \param profileStartUnixTimestamp The Unix timestamp of the start of the
+      |             ^~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/React-jsinspectortracing/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.h:101:13: note: did you mean 'profileStartTimestamp'?
+  101 |    * \param profileStartUnixTimestamp The Unix timestamp of the start of the
+      |             ^~~~~~~~~~~~~~~~~~~~~~~~~
+      |             profileStartTimestamp
+1 warning generated.
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/React-jsinspectortracing/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.h:101:13: Parameter 'profileStartUnixTimestamp' not found in the function declaration
+
+CompileC /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspector.build/Objects-normal/arm64/TracingAgent.o /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/TracingAgent.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'React-jsinspector' from project 'Pods')
+    cd /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods
+    
+    Using response file: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspector.build/Objects-normal/arm64/82b82416624d2658e5098eb0a28c15c5-common-args.resp
+    
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -ivfsstatcache /Users/arjunpillai/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphonesimulator18.5-22F76-d5fc8ad4295d2ef488fb7d0f804ce0c4.sdkstatcache -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -fno-color-diagnostics -fmodules-prune-interval\=86400 -fmodules-prune-after\=345600 -fbuild-session-file\=/Users/arjunpillai/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation -fmodules-validate-once-per-build-session -Wnon-modular-include-in-framework-module -Werror\=non-modular-include-in-framework-module -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Werror\=return-type -Wdocumentation -Wunreachable-code -Werror\=deprecated-objc-isa-usage -Werror\=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-float-conversion -Wnon-literal-null-conversion -Wobjc-literal-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -Wno-implicit-fallthrough -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -Wno-sign-conversion -Winfinite-recursion -Wmove -Wcomma -Wblock-capture-autoreleasing -Wstrict-prototypes -Wrange-loop-analysis -Wno-semicolon-before-method-body -Wunguarded-availability @/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspector.build/Objects-normal/arm64/82b82416624d2658e5098eb0a28c15c5-common-args.resp -include /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Target\ Support\ Files/React-jsinspector/React-jsinspector-prefix.pch -MMD -MT dependencies -MF /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspector.build/Objects-normal/arm64/TracingAgent.d --serialize-diagnostics /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspector.build/Objects-normal/arm64/TracingAgent.dia -c /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/TracingAgent.cpp -o /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-jsinspector.build/Objects-normal/arm64/TracingAgent.o
+
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/jsinspector-modern/TracingAgent.cpp:11:
+/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/React-jsinspectortracing/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.h:101:13: warning: parameter 'profileStartUnixTimestamp' not found in the function declaration [-Wdocumentation]
+  101 |    * \param profileStartUnixTimestamp The Unix timestamp of the start of the
+      |             ^~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/React-jsinspectortracing/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.h:101:13: note: did you mean 'profileStartTimestamp'?
+  101 |    * \param profileStartUnixTimestamp The Unix timestamp of the start of the
+      |             ^~~~~~~~~~~~~~~~~~~~~~~~~
+      |             profileStartTimestamp
+1 warning generated.
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/React-jsinspectortracing/jsinspector-modern/tracing/RuntimeSamplingProfileTraceEventSerializer.h:101:13: Parameter 'profileStartUnixTimestamp' not found in the function declaration
+
+
+Build target React-hermes of project Pods with configuration Release
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'React-hermes' from project 'Pods')
+
+
+Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone
+
+CompileC /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-hermes.build/Objects-normal/x86_64/HermesExecutorFactory.o /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'React-hermes' from project 'Pods')
+    cd /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods
+    
+    Using response file: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-hermes.build/Objects-normal/x86_64/82b82416624d2658e5098eb0a28c15c5-common-args.resp
+    
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -ivfsstatcache /Users/arjunpillai/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphonesimulator18.5-22F76-d5fc8ad4295d2ef488fb7d0f804ce0c4.sdkstatcache -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -fno-color-diagnostics -fmodules-prune-interval\=86400 -fmodules-prune-after\=345600 -fbuild-session-file\=/Users/arjunpillai/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation -fmodules-validate-once-per-build-session -Wnon-modular-include-in-framework-module -Werror\=non-modular-include-in-framework-module -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Werror\=return-type -Wdocumentation -Wunreachable-code -Werror\=deprecated-objc-isa-usage -Werror\=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-float-conversion -Wnon-literal-null-conversion -Wobjc-literal-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -Wno-implicit-fallthrough -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -Wno-sign-conversion -Winfinite-recursion -Wmove -Wcomma -Wblock-capture-autoreleasing -Wstrict-prototypes -Wrange-loop-analysis -Wno-semicolon-before-method-body -Wunguarded-availability @/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-hermes.build/Objects-normal/x86_64/82b82416624d2658e5098eb0a28c15c5-common-args.resp -include /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Target\ Support\ Files/React-hermes/React-hermes-prefix.pch -MMD -MT dependencies -MF /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-hermes.build/Objects-normal/x86_64/HermesExecutorFactory.d --serialize-diagnostics /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-hermes.build/Objects-normal/x86_64/HermesExecutorFactory.dia -c /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp -o /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/Pods.build/Release-iphonesimulator/React-hermes.build/Objects-normal/x86_64/HermesExecutorFactory.o
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:124:20: error: no member named 'thread' in namespace 'std'
+  124 |   std::atomic<std::thread::id> tid;
+      |               ~~~~~^
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:68:32: error: no member named 'thread' in namespace 'std'
+   68 |   ReentrancyCheck() : tid(std::thread::id()), depth(0) {}
+      |                           ~~~~~^
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:71:10: error: no member named 'thread' in namespace 'std'
+   71 |     std::thread::id this_id = std::this_thread::get_id();
+      |     ~~~~~^
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:72:10: error: no member named 'thread' in namespace 'std'
+   72 |     std::thread::id expected = std::thread::id();
+      |     ~~~~~^
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:72:21: error: use of undeclared identifier 'expected'; did you mean 'folly::Expected'?
+   72 |     std::thread::id expected = std::thread::id();
+      |                     ^~~~~~~~
+      |                     folly::Expected
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:8:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.h:11:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/React-jsiexecutor/jsireact/JSIExecutor.h:11:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/React-cxxreact/cxxreact/JSExecutor.h:13:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/React-cxxreact/cxxreact/NativeModule.h:13:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/RCT-Folly/folly/dynamic.h:17:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/RCT-Folly/folly/json/dynamic.h:70:
+/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/RCT-Folly/folly/Expected.h:941:7: note: 'folly::Expected' declared here
+  941 | class Expected final : expected_detail::ExpectedStorage<Value, Error> {
+      |       ^
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:72:37: error: no member named 'thread' in namespace 'std'
+   72 |     std::thread::id expected = std::thread::id();
+      |                                ~~~~~^
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:117:12: error: no member named 'thread' in namespace 'std'
+  117 |       std::thread::id expected = std::this_thread::get_id();
+      |       ~~~~~^
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:117:23: error: use of undeclared identifier 'expected'; did you mean 'folly::Expected'?
+  117 |       std::thread::id expected = std::this_thread::get_id();
+      |                       ^~~~~~~~
+      |                       folly::Expected
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:8:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.h:11:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/React-jsiexecutor/jsireact/JSIExecutor.h:11:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/React-cxxreact/cxxreact/JSExecutor.h:13:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/React-cxxreact/cxxreact/NativeModule.h:13:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/RCT-Folly/folly/dynamic.h:17:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/RCT-Folly/folly/json/dynamic.h:70:
+/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/RCT-Folly/folly/Expected.h:941:7: note: 'folly::Expected' declared here
+  941 | class Expected final : expected_detail::ExpectedStorage<Value, Error> {
+      |       ^
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:119:26: error: no member named 'thread' in namespace 'std'
+  119 |           expected, std::thread::id(), std::memory_order_relaxed);
+      |                     ~~~~~^
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:227:7: error: cannot initialize object parameter of type 'facebook::jsi::WithRuntimeDecorator<facebook::react::(anonymous namespace)::ReentrancyCheck>' with an expression of type 'element_type' (aka 'facebook::react::(anonymous namespace)::DecoratedRuntime')
+  227 |       decoratedRuntime->global()
+      |       ^~~~~~~~~~~~~~~~~~
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:8:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.h:10:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/hermes-engine/hermes/hermes.h:12:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/list:218:
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/compressed_pair.h:146:12: error: static_cast from '__compressed_pair<allocator<DecoratedRuntime>, DecoratedRuntime> *' to '_Base1 *' (aka '__compressed_pair_elem<std::allocator<facebook::react::(anonymous namespace)::DecoratedRuntime>, 0> *'), which are not related by inheritance, is not allowed
+  146 |     return static_cast<_Base1*>(__pair);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:8:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.h:10:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/hermes-engine/hermes/hermes.h:12:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/list:1731:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/algorithm:1842:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__algorithm/for_each.h:16:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__ranges/movable_box.h:21:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/optional:1294:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/memory:944:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/inout_ptr.h:16:
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/shared_ptr.h:314:68: note: in instantiation of member function 'std::__compressed_pair<std::allocator<facebook::react::(anonymous namespace)::DecoratedRuntime>, facebook::react::(anonymous namespace)::DecoratedRuntime>::__get_first_base' requested here
+  314 |       typename _CompressedPair::_Base1* __first = _CompressedPair::__get_first_base(__as_pair);
+      |                                                                    ^
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/shared_ptr.h:310:75: note: in instantiation of member function 'std::__shared_ptr_emplace<facebook::react::(anonymous namespace)::DecoratedRuntime, std::allocator<facebook::react::(anonymous namespace)::DecoratedRuntime>>::_Storage::__get_alloc' requested here
+  310 |     _LIBCPP_HIDE_FROM_ABI explicit _Storage(_Alloc&& __a) { ::new ((void*)__get_alloc()) _Alloc(std::move(__a)); }
+      |                                                                           ^
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/shared_ptr.h:263:88: note: in instantiation of member function 'std::__shared_ptr_emplace<facebook::react::(anonymous namespace)::DecoratedRuntime, std::allocator<facebook::react::(anonymous namespace)::DecoratedRuntime>>::_Storage::_Storage' requested here
+  263 |   _LIBCPP_HIDE_FROM_ABI explicit __shared_ptr_emplace(_Alloc __a, _Args&&... __args) : __storage_(std::move(__a)) {
+      |                                                                                        ^
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/shared_ptr.h:845:51: note: in instantiation of function template specialization 'std::__shared_ptr_emplace<facebook::react::(anonymous namespace)::DecoratedRuntime, std::allocator<facebook::react::(anonymous namespace)::DecoratedRuntime>>::__shared_ptr_emplace<std::unique_ptr<facebook::hermes::HermesRuntime>, facebook::hermes::HermesRuntime &, std::shared_ptr<facebook::react::MessageQueueThread> &, bool &, std::string &, std::allocator<facebook::react::(anonymous namespace)::DecoratedRuntime>, 0>' requested here
+  845 |   ::new ((void*)std::addressof(*__guard.__get())) _ControlBlock(__a, std::forward<_Args>(__args)...);
+      |                                                   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/shared_ptr.h:853:15: note: in instantiation of function template specialization 'std::allocate_shared<facebook::react::(anonymous namespace)::DecoratedRuntime, std::allocator<facebook::react::(anonymous namespace)::DecoratedRuntime>, std::unique_ptr<facebook::hermes::HermesRuntime>, facebook::hermes::HermesRuntime &, std::shared_ptr<facebook::react::MessageQueueThread> &, bool &, std::string &, 0>' requested here
+  853 |   return std::allocate_shared<_Tp>(allocator<__remove_cv_t<_Tp> >(), std::forward<_Args>(__args)...);
+      |               ^
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:207:32: note: in instantiation of function template specialization 'std::make_shared<facebook::react::(anonymous namespace)::DecoratedRuntime, std::unique_ptr<facebook::hermes::HermesRuntime>, facebook::hermes::HermesRuntime &, std::shared_ptr<facebook::react::MessageQueueThread> &, bool &, std::string &, 0>' requested here
+  207 |   auto decoratedRuntime = std::make_shared<DecoratedRuntime>(
+      |                                ^
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:8:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.h:10:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/hermes-engine/hermes/hermes.h:12:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/list:218:
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/compressed_pair.h:149:12: error: static_cast from '__compressed_pair<allocator<DecoratedRuntime>, DecoratedRuntime> *' to '_Base2 *' (aka '__compressed_pair_elem<facebook::react::(anonymous namespace)::DecoratedRuntime, 1> *'), which are not related by inheritance, is not allowed
+  149 |     return static_cast<_Base2*>(__pair);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:8:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.h:10:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/hermes-engine/hermes/hermes.h:12:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/list:1731:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/algorithm:1842:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__algorithm/for_each.h:16:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__ranges/movable_box.h:21:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/optional:1294:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/memory:944:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/inout_ptr.h:16:
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/shared_ptr.h:320:69: note: in instantiation of member function 'std::__compressed_pair<std::allocator<facebook::react::(anonymous namespace)::DecoratedRuntime>, facebook::react::(anonymous namespace)::DecoratedRuntime>::__get_second_base' requested here
+  320 |       typename _CompressedPair::_Base2* __second = _CompressedPair::__get_second_base(__as_pair);
+      |                                                                     ^
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/shared_ptr.h:271:73: note: in instantiation of member function 'std::__shared_ptr_emplace<facebook::react::(anonymous namespace)::DecoratedRuntime, std::allocator<facebook::react::(anonymous namespace)::DecoratedRuntime>>::_Storage::__get_elem' requested here
+  271 |   _LIBCPP_HIDE_FROM_ABI _Tp* __get_elem() _NOEXCEPT { return __storage_.__get_elem(); }
+      |                                                                         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/shared_ptr.h:848:26: note: in instantiation of member function 'std::__shared_ptr_emplace<facebook::react::(anonymous namespace)::DecoratedRuntime, std::allocator<facebook::react::(anonymous namespace)::DecoratedRuntime>>::__get_elem' requested here
+  848 |       (*__control_block).__get_elem(), std::addressof(*__control_block));
+      |                          ^
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/shared_ptr.h:853:15: note: in instantiation of function template specialization 'std::allocate_shared<facebook::react::(anonymous namespace)::DecoratedRuntime, std::allocator<facebook::react::(anonymous namespace)::DecoratedRuntime>, std::unique_ptr<facebook::hermes::HermesRuntime>, facebook::hermes::HermesRuntime &, std::shared_ptr<facebook::react::MessageQueueThread> &, bool &, std::string &, 0>' requested here
+  853 |   return std::allocate_shared<_Tp>(allocator<__remove_cv_t<_Tp> >(), std::forward<_Args>(__args)...);
+      |               ^
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:207:32: note: in instantiation of function template specialization 'std::make_shared<facebook::react::(anonymous namespace)::DecoratedRuntime, std::unique_ptr<facebook::hermes::HermesRuntime>, facebook::hermes::HermesRuntime &, std::shared_ptr<facebook::react::MessageQueueThread> &, bool &, std::string &, 0>' requested here
+  207 |   auto decoratedRuntime = std::make_shared<DecoratedRuntime>(
+      |                                ^
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:8:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.h:10:
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Headers/Public/hermes-engine/hermes/hermes.h:12:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/list:1731:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/algorithm:1842:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__algorithm/for_each.h:16:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__ranges/movable_box.h:21:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/optional:1294:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/memory:944:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/inout_ptr.h:16:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/shared_ptr.h:32:
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/unique_ptr.h:635:30: error: no matching constructor for initialization of 'facebook::react::HermesExecutor'
+  635 |   return unique_ptr<_Tp>(new _Tp(std::forward<_Args>(__args)...));
+      |                              ^   ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:232:15: note: in instantiation of function template specialization 'std::make_unique<facebook::react::HermesExecutor, std::shared_ptr<facebook::react::(anonymous namespace)::DecoratedRuntime> &, std::shared_ptr<facebook::react::ExecutorDelegate> &, std::shared_ptr<facebook::react::MessageQueueThread> &, std::function<void (const std::function<void ()> &, std::function<std::string ()>)> &, std::function<void (facebook::jsi::Runtime &)> &, facebook::hermes::HermesRuntime &>' requested here
+  232 |   return std::make_unique<HermesExecutor>(
+      |               ^
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:247:17: note: candidate constructor not viable: no known conversion from 'shared_ptr<facebook::react::(anonymous namespace)::DecoratedRuntime>' to 'shared_ptr<jsi::Runtime>' for 1st argument
+  247 | HermesExecutor::HermesExecutor(
+      |                 ^
+  248 |     std::shared_ptr<jsi::Runtime> runtime,
+      |     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from /Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:8:
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.h:47:7: note: candidate constructor (the implicit copy constructor) not viable: requires 1 argument, but 6 were provided
+   47 | class HermesExecutor : public JSIExecutor {
+      |       ^~~~~~~~~~~~~~
+13 errors generated.
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:124:20: No member named 'thread' in namespace 'std'
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:68:32: No member named 'thread' in namespace 'std'
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:71:10: No member named 'thread' in namespace 'std'
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:72:10: No member named 'thread' in namespace 'std'
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:72:21: Use of undeclared identifier 'expected'; did you mean 'folly::Expected'?
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:72:37: No member named 'thread' in namespace 'std'
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:117:12: No member named 'thread' in namespace 'std'
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:117:23: Use of undeclared identifier 'expected'; did you mean 'folly::Expected'?
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:119:26: No member named 'thread' in namespace 'std'
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native/ReactCommon/hermes/executor/HermesExecutorFactory.cpp:227:7: Cannot initialize object parameter of type 'facebook::jsi::WithRuntimeDecorator<facebook::react::(anonymous namespace)::ReentrancyCheck>' with an expression of type 'element_type' (aka 'facebook::react::(anonymous namespace)::DecoratedRuntime')
+
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/compressed_pair.h:146:12: Static_cast from '__compressed_pair<allocator<DecoratedRuntime>, DecoratedRuntime> *' to '_Base1 *' (aka '__compressed_pair_elem<std::allocator<facebook::react::(anonymous namespace)::DecoratedRuntime>, 0> *'), which are not related by inheritance, is not allowed
+
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/compressed_pair.h:149:12: Static_cast from '__compressed_pair<allocator<DecoratedRuntime>, DecoratedRuntime> *' to '_Base2 *' (aka '__compressed_pair_elem<facebook::react::(anonymous namespace)::DecoratedRuntime, 1> *'), which are not related by inheritance, is not allowed
+
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/c++/v1/__memory/unique_ptr.h:635:30: No matching constructor for initialization of 'facebook::react::HermesExecutor'
+
+
+Build target RNScreens of project Pods with configuration Release
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'RNScreens' from project 'Pods')
+/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 18.5.99. (in target 'RNScreens' from project 'Pods')
+
+
+Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 18.5.99.
+
+
+Build target RCTDeprecation of project Pods with configuration Release
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'RCTDeprecation' from project 'Pods')
+/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 4.3, but the range of supported deployment target versions is 12.0 to 18.5.99. (in target 'RCTDeprecation' from project 'Pods')
+
+
+Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone
+
+/Users/arjunpillai/Projects/chronoshealthjournalapp/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 4.3, but the range of supported deployment target versions is 12.0 to 18.5.99.
+
+
+
+Build failed    10/23/25, 9:04 AM    87.9 seconds

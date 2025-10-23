@@ -12,9 +12,7 @@ import { StatusBar, Image, View, LogBox } from 'react-native';
 import JournalScreen from './JournalScreen';
 import PastEntriesScreen from './PastEntriesScreen';
 import { COLORS } from './src/theme/colors';
-
-const journalIcon = require('./assets/icons/journal_icon.png');
-const pastEntriesIcon = require('./assets/icons/past_entries_icon.png');
+import { icons } from './src/icons';
 
 // Configure LogBox for development only
 if (__DEV__) {
@@ -88,7 +86,7 @@ function App() {
               tabBarShowLabel: false,
               tabBarIcon: ({ focused }) => (
                 <Image 
-                  source={journalIcon} 
+                  source={icons.journal} 
                   style={{ width: 30, height: 30 }}
                 />
               ),
@@ -103,7 +101,7 @@ function App() {
               tabBarShowLabel: false,
               tabBarIcon: ({ focused }) => (
                 <Image 
-                  source={pastEntriesIcon} 
+                  source={icons.pastEntries} 
                   style={{ width: 30, height: 30 }}
                 />
               ),
