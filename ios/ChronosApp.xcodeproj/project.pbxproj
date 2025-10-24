@@ -8,17 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
-		41B2BF86360240748D9C980B /* Alegreya-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 428172F8FAAC4A1FAC5D20C0 /* Alegreya-Regular.ttf */; };
-		756FDC9933DE4007B3888A62 /* Alegreya-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0122586A4AF44A778CFD11FA /* Alegreya-Bold.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		8F79476732AD8596F82C2B08 /* libPods-ChronosApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C09C255E47EB38B3CA9E451 /* libPods-ChronosApp.a */; };
-		B34F3BB52EA95AC50031B161 /* back-icon-mask.png in Resources */ = {isa = PBXBuildFile; fileRef = B34F3BAC2EA95AC50031B161 /* back-icon-mask.png */; };
-		B34F3BB62EA95AC50031B161 /* back-icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B34F3BAE2EA95AC50031B161 /* back-icon@3x.png */; };
-		B34F3BB72EA95AC50031B161 /* past_entries_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B34F3BA82EA95AC50031B161 /* past_entries_icon.png */; };
-		B34F3BB82EA95AC50031B161 /* back-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B34F3BAB2EA95AC50031B161 /* back-icon.png */; };
-		B34F3BB92EA95AC50031B161 /* journal_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B34F3BA72EA95AC50031B161 /* journal_icon.png */; };
-		B34F3BBA2EA95AC50031B161 /* back-icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B34F3BAD2EA95AC50031B161 /* back-icon@2x.png */; };
+		B3FD27D02EABF875000E8991 /* past_entries_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B3FD27CB2EABF874000E8991 /* past_entries_icon.png */; };
+		B3FD27D12EABF875000E8991 /* journal_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B3FD27CA2EABF874000E8991 /* journal_icon.png */; };
+		B3FD27D22EABF9C4000E8991 /* Alegreya-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3FD27C72EABF874000E8991 /* Alegreya-Bold.ttf */; };
+		B3FD27D32EABF9C8000E8991 /* Alegreya-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3FD27C82EABF874000E8991 /* Alegreya-Regular.ttf */; };
 		DF111E921F6156075ABEAB9D /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
 		EEFF00111122334455667788 /* main.jsbundle in Resources */ = {isa = PBXBuildFile; fileRef = AABBCCDD1122334455667788 /* main.jsbundle */; };
 /* End PBXBuildFile section */
@@ -36,12 +32,10 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ChronosApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8C09C255E47EB38B3CA9E451 /* libPods-ChronosApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ChronosApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AABBCCDD1122334455667788 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		B34F3BA72EA95AC50031B161 /* journal_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = journal_icon.png; sourceTree = "<group>"; };
-		B34F3BA82EA95AC50031B161 /* past_entries_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = past_entries_icon.png; sourceTree = "<group>"; };
-		B34F3BAB2EA95AC50031B161 /* back-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-icon.png"; sourceTree = "<group>"; };
-		B34F3BAC2EA95AC50031B161 /* back-icon-mask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-icon-mask.png"; sourceTree = "<group>"; };
-		B34F3BAD2EA95AC50031B161 /* back-icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-icon@2x.png"; sourceTree = "<group>"; };
-		B34F3BAE2EA95AC50031B161 /* back-icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-icon@3x.png"; sourceTree = "<group>"; };
+		B3FD27C72EABF874000E8991 /* Alegreya-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Alegreya-Bold.ttf"; sourceTree = "<group>"; };
+		B3FD27C82EABF874000E8991 /* Alegreya-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Alegreya-Regular.ttf"; sourceTree = "<group>"; };
+		B3FD27CA2EABF874000E8991 /* journal_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = journal_icon.png; sourceTree = "<group>"; };
+		B3FD27CB2EABF874000E8991 /* past_entries_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = past_entries_icon.png; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -88,7 +82,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				B34F3BB42EA95AC50031B161 /* assets */,
+				B3FD27CD2EABF874000E8991 /* assets */,
 				13B07FAE1A68108700A75B9A /* ChronosApp */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				83CBBA001A601CBA00E9B192 /* Products */,
@@ -119,81 +113,39 @@
 			name = Resources;
 			sourceTree = "<group>";
 		};
-		B34F3BA92EA95AC50031B161 /* icons */ = {
-			isa = PBXGroup;
-			children = (
-				B34F3BA72EA95AC50031B161 /* journal_icon.png */,
-				B34F3BA82EA95AC50031B161 /* past_entries_icon.png */,
-			);
-			path = icons;
-			sourceTree = "<group>";
-		};
-		B34F3BAA2EA95AC50031B161 /* assets */ = {
-			isa = PBXGroup;
-			children = (
-				B34F3BA92EA95AC50031B161 /* icons */,
-			);
-			path = assets;
-			sourceTree = "<group>";
-		};
-		B34F3BAF2EA95AC50031B161 /* assets */ = {
-			isa = PBXGroup;
-			children = (
-				B34F3BAB2EA95AC50031B161 /* back-icon.png */,
-				B34F3BAC2EA95AC50031B161 /* back-icon-mask.png */,
-				B34F3BAD2EA95AC50031B161 /* back-icon@2x.png */,
-				B34F3BAE2EA95AC50031B161 /* back-icon@3x.png */,
-			);
-			path = assets;
-			sourceTree = "<group>";
-		};
-		B34F3BB02EA95AC50031B161 /* src */ = {
-			isa = PBXGroup;
-			children = (
-				B34F3BAF2EA95AC50031B161 /* assets */,
-			);
-			path = src;
-			sourceTree = "<group>";
-		};
-		B34F3BB12EA95AC50031B161 /* elements */ = {
-			isa = PBXGroup;
-			children = (
-				B34F3BB02EA95AC50031B161 /* src */,
-			);
-			path = elements;
-			sourceTree = "<group>";
-		};
-		B34F3BB22EA95AC50031B161 /* @react-navigation */ = {
-			isa = PBXGroup;
-			children = (
-				B34F3BB12EA95AC50031B161 /* elements */,
-			);
-			path = "@react-navigation";
-			sourceTree = "<group>";
-		};
-		B34F3BB32EA95AC50031B161 /* node_modules */ = {
-			isa = PBXGroup;
-			children = (
-				B34F3BB22EA95AC50031B161 /* @react-navigation */,
-			);
-			path = node_modules;
-			sourceTree = "<group>";
-		};
-		B34F3BB42EA95AC50031B161 /* assets */ = {
-			isa = PBXGroup;
-			children = (
-				B34F3BAA2EA95AC50031B161 /* assets */,
-				B34F3BB32EA95AC50031B161 /* node_modules */,
-			);
-			path = assets;
-			sourceTree = "<group>";
-		};
 		B3DDDC072EA2BE800070B05D /* Recovered References */ = {
 			isa = PBXGroup;
 			children = (
 				AABBCCDD1122334455667788 /* main.jsbundle */,
 			);
 			name = "Recovered References";
+			sourceTree = "<group>";
+		};
+		B3FD27C92EABF874000E8991 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				B3FD27C72EABF874000E8991 /* Alegreya-Bold.ttf */,
+				B3FD27C82EABF874000E8991 /* Alegreya-Regular.ttf */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
+		B3FD27CC2EABF874000E8991 /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				B3FD27CA2EABF874000E8991 /* journal_icon.png */,
+				B3FD27CB2EABF874000E8991 /* past_entries_icon.png */,
+			);
+			path = icons;
+			sourceTree = "<group>";
+		};
+		B3FD27CD2EABF874000E8991 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				B3FD27C92EABF874000E8991 /* fonts */,
+				B3FD27CC2EABF874000E8991 /* icons */,
+			);
+			path = assets;
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -266,17 +218,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B34F3BB52EA95AC50031B161 /* back-icon-mask.png in Resources */,
-				B34F3BB62EA95AC50031B161 /* back-icon@3x.png in Resources */,
-				B34F3BB72EA95AC50031B161 /* past_entries_icon.png in Resources */,
-				B34F3BB82EA95AC50031B161 /* back-icon.png in Resources */,
-				B34F3BB92EA95AC50031B161 /* journal_icon.png in Resources */,
-				B34F3BBA2EA95AC50031B161 /* back-icon@2x.png in Resources */,
+				B3FD27D32EABF9C8000E8991 /* Alegreya-Regular.ttf in Resources */,
+				B3FD27D22EABF9C4000E8991 /* Alegreya-Bold.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				DF111E921F6156075ABEAB9D /* PrivacyInfo.xcprivacy in Resources */,
-				756FDC9933DE4007B3888A62 /* Alegreya-Bold.ttf in Resources */,
-				41B2BF86360240748D9C980B /* Alegreya-Regular.ttf in Resources */,
+				B3FD27D02EABF875000E8991 /* past_entries_icon.png in Resources */,
+				B3FD27D12EABF875000E8991 /* journal_icon.png in Resources */,
 				EEFF00111122334455667788 /* main.jsbundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -330,9 +278,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ChronosApp/Pods-ChronosApp-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ChronosApp/Pods-ChronosApp-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -347,9 +299,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ChronosApp/Pods-ChronosApp-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ChronosApp/Pods-ChronosApp-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
