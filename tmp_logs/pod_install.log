@@ -1,0 +1,85 @@
+Found 3 modules for target `ChronosApp`
+link_native_modules! {:ios_packages=>[{:configurations=>[], :name=>"react-native-mmkv", :root=>"/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native-mmkv", :path=>"../node_modules/react-native-mmkv", :podspec_path=>"/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native-mmkv/react-native-mmkv.podspec", :script_phases=>[]}, {:configurations=>[], :name=>"react-native-safe-area-context", :root=>"/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native-safe-area-context", :path=>"../node_modules/react-native-safe-area-context", :podspec_path=>"/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native-safe-area-context/react-native-safe-area-context.podspec", :script_phases=>[]}, {:configurations=>[], :name=>"react-native-screens", :root=>"/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native-screens", :path=>"../node_modules/react-native-screens", :podspec_path=>"/Users/arjunpillai/Projects/chronoshealthjournalapp/node_modules/react-native-screens/RNScreens.podspec", :script_phases=>[]}], :ios_project_root_path=>"/Users/arjunpillai/Projects/chronoshealthjournalapp/ios", :react_native_path=>"../node_modules/react-native"}
+Auto-linking React Native modules for target `ChronosApp`: RNScreens, react-native-mmkv, and react-native-safe-area-context
+Framework build type is static library
+[ReactNativeDependencies] Setting up ReactNativeDependencies...
+[ReactNativeDependencies] Building from source: true
+[ReactNativeDependencies] Source: 
+[ReactNativeCore] Setting up ReactNativeCore...
+[ReactNativeCore] Building from source: true
+[ReactNativeCore] Source: 
+Configuring the target with the Legacy Architecture
+[36m[1m[Codegen][0m Analyzing ../package.json[0m
+[36m[1m[Codegen][0m [33mSearching for codegen-enabled libraries in the app.[0m
+[36m[1m[Codegen][0m [33mThe "codegenConfig" field is not defined in package.json. Assuming there is nothing to generate at the app level.[0m
+[36m[1m[Codegen][0m [33mSearching for codegen-enabled libraries in react-native.config.js[0m
+[36m[1m[Codegen][0m Found react-native-mmkv[0m
+[36m[1m[Codegen][0m Found react-native-safe-area-context[0m
+[36m[1m[Codegen][0m Found react-native-screens[0m
+[36m[1m[Codegen][0m Processing reactnativemmkv[0m
+[36m[1m[Codegen][0m [33mSearching for podspec in the project dependencies.[0m
+[36m[1m[Codegen][0m Supported Apple platforms: ios, macos, tvos for reactnativemmkv[0m
+[36m[1m[Codegen][0m Processing safeareacontext[0m
+[36m[1m[Codegen][0m [33mSearching for podspec in the project dependencies.[0m
+[36m[1m[Codegen][0m Supported Apple platforms: ios, macos, tvos, visionos for safeareacontext[0m
+[36m[1m[Codegen][0m Processing rnscreens[0m
+[36m[1m[Codegen][0m [33mSearching for podspec in the project dependencies.[0m
+[36m[1m[Codegen][0m Supported Apple platforms: ios, tvos, visionos for rnscreens[0m
+[36m[1m[Codegen][0m Generating Native Code for reactnativemmkv - ios[0m
+[36m[1m[Codegen][0m Generated artifacts: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/generated/ios[0m
+[36m[1m[Codegen][0m Generating Native Code for safeareacontext - ios[0m
+[36m[1m[Codegen][0m Generated artifacts: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/generated/ios[0m
+[36m[1m[Codegen][0m Generating Native Code for rnscreens - ios[0m
+[36m[1m[Codegen][0m Generated artifacts: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/generated/ios[0m
+[36m[1m[Codegen][0m Generating RCTThirdPartyComponentsProvider.h[0m
+[36m[1m[Codegen][0m Generated artifact: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/generated/ios/RCTThirdPartyComponentsProvider.h[0m
+[36m[1m[Codegen][0m Generating RCTThirdPartyComponentsProvider.mm[0m
+[36m[1m[Codegen][0m Generated artifact: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/generated/ios/RCTThirdPartyComponentsProvider.mm[0m
+[36m[1m[Codegen][0m Generating RCTModulesProvider.h[0m
+[36m[1m[Codegen][0m Generated artifact: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/generated/ios/RCTModuleProviders.h[0m
+[36m[1m[Codegen][0m Generating RCTModuleProviders.mm[0m
+[36m[1m[Codegen][0m Generated artifact: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/generated/ios/RCTModuleProviders.mm[0m
+[36m[1m[Codegen][0m Generating RCTAppDependencyProvider[0m
+[36m[1m[Codegen][0m Generated artifact: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/generated/ios/RCTAppDependencyProvider.h[0m
+[36m[1m[Codegen][0m Generated artifact: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/generated/ios/RCTAppDependencyProvider.mm[0m
+[36m[1m[Codegen][0m Generated podspec: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/generated/ios/ReactAppDependencyProvider.podspec[0m
+[36m[1m[Codegen][0m Generated podspec: /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/build/generated/ios/ReactCodegen.podspec[0m
+[36m[1m[Codegen][0m [33mDone.[0m
+No modules to process in combine-js-to-schema-cli. If this is unexpected, please check if you set up your NativeComponent correctly. See combine-js-to-schema.js for how codegen finds modules.
+Updating local specs repositories
+
+CocoaPods 1.16.1 is available.
+To update use: `gem install cocoapods`
+
+For more information, see https://blog.cocoapods.org and the CHANGELOG for this version at https://github.com/CocoaPods/CocoaPods/releases/tag/1.16.1
+
+Analyzing dependencies
+Downloading dependencies
+Generating Pods project
+Setting USE_HERMES build settings
+Setting REACT_NATIVE_PATH build settings
+Setting SWIFT_ACTIVE_COMPILATION_CONDITIONS build settings
+[Ccache]: Removing Ccache from CC, LD, CXX & LDPLUSPLUS build settings
+[SPM] Cleaning old SPM dependencies from Pods project
+[SPM] Adding SPM dependencies to Pods project
+[Privacy Manifest Aggregation] Appending aggregated reasons to existing PrivacyInfo.xcprivacy file.
+[Privacy Manifest Aggregation] Reading .xcprivacy files to aggregate all used Required Reason APIs.
+Setting CLANG_CXX_LANGUAGE_STANDARD to c++20 on /Users/arjunpillai/Projects/chronoshealthjournalapp/ios/ChronosApp.xcodeproj
+
+==================== DEPRECATION NOTICE =====================
+Calling `pod install` directly is deprecated in React Native
+because we are moving away from Cocoapods toward alternative
+solutions to build the project.
+* If you are using Expo, please run:
+`npx expo run:ios`
+* If you are using the Community CLI, please run:
+`yarn ios`
+=============================================================
+
+Pod install took 9 [s] to run
+Integrating client project
+Pod installation complete! There are 76 dependencies from the Podfile and 77 total pods installed.
+    - Use the `$(inherited)` flag, or
+    - Remove the build settings from the target.
+    - Use the `$(inherited)` flag, or
+    - Remove the build settings from the target.
