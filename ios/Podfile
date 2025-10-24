@@ -6,7 +6,7 @@ require Pod::Executable.execute_command('node', ['-p',
   )', __dir__]).strip
 require_relative '../node_modules/react-native/scripts/react_native_pods'
 
-platform :ios, min_ios_version_supported
+platform :ios, '15.1'
 prepare_react_native_project!
 
 # use_frameworks! :linkage => :static  # Disabled for better RN compatibility
@@ -22,6 +22,12 @@ target 'ChronosApp' do
   )
 
   post_install do |installer|
+    # Force all pods to use iOS 12.0+ (Xcode 16 simulators require it)
+    installer.pods_project.targets.each do |t|
+      t.build_configurations.each do |config|
+        config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '15.1'
+      end
+    end
     react_native_post_install(
       installer,
       mac_catalyst_enabled: false
