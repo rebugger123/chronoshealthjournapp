@@ -8,11 +8,11 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import { StatusBar, Image, View, LogBox } from 'react-native';
+import { StatusBar, View, LogBox } from 'react-native';
 import JournalScreen from './JournalScreen';
 import PastEntriesScreen from './PastEntriesScreen';
 import { COLORS } from './src/theme/colors';
-import { icons } from './src/icons';
+import TabBarIcon from './src/components/TabBarIcon';
 
 // Configure LogBox for development only
 if (__DEV__) {
@@ -84,10 +84,12 @@ function App() {
               title: 'Journal',
               headerTitle: 'JOURNAL',
               tabBarShowLabel: false,
-              tabBarIcon: ({ focused }) => (
-                <Image 
-                  source={icons.journal} 
-                  style={{ width: 30, height: 30 }}
+              tabBarIcon: ({ focused, color, size, route }) => (
+                <TabBarIcon 
+                  routeName={route?.name || ''}
+                  focused={focused}
+                  color={color}
+                  size={size ?? 30}
                 />
               ),
             }}
@@ -99,10 +101,12 @@ function App() {
               title: 'History',
               headerTitle: 'HISTORY',
               tabBarShowLabel: false,
-              tabBarIcon: ({ focused }) => (
-                <Image 
-                  source={icons.pastEntries} 
-                  style={{ width: 30, height: 30 }}
+              tabBarIcon: ({ focused, color, size, route }) => (
+                <TabBarIcon 
+                  routeName={route?.name || ''}
+                  focused={focused}
+                  color={color}
+                  size={size ?? 30}
                 />
               ),
             }}
