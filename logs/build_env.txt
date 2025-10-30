@@ -1,0 +1,3 @@
+Workspace=ios/ChronosApp.xcworkspace
+Scheme=ChronosApp
+Dest=platform=iOS Simulator,name=iPhone 16
